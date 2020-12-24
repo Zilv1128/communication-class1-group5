@@ -1,3 +1,3 @@
-D:/CodeProjects/程序实习/个人/task2/build/CMakeFiles/edit_cache.dir
-D:/CodeProjects/程序实习/个人/task2/build/CMakeFiles/main.dir
-D:/CodeProjects/程序实习/个人/task2/build/CMakeFiles/rebuild_cache.dir
+D:/CodeProjects/program/team/communication-class1-group5/201811050973/task2/build/CMakeFiles/edit_cache.dir
+D:/CodeProjects/program/team/communication-class1-group5/201811050973/task2/build/CMakeFiles/main.dir
+D:/CodeProjects/program/team/communication-class1-group5/201811050973/task2/build/CMakeFiles/rebuild_cache.dir

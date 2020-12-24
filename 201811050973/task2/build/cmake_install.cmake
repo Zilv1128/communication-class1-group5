@@ -1,4 +1,4 @@
-# Install script for directory: D:/CodeProjects/程序实习/个人/task2
+# Install script for directory: D:/CodeProjects/program/team/communication-class1-group5/201811050973/task2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/CodeProjects/程序实习/个人/task2/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/CodeProjects/program/team/communication-class1-group5/201811050973/task2/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

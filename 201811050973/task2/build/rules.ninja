@@ -42,7 +42,7 @@ rule CXX_EXECUTABLE_LINKER__main_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = D:\CMake\bin\cmake.exe --regenerate-during-build -SD:\CodeProjects\程序实习\个人\task2 -BD:\CodeProjects\程序实习\个人\task2\build
+  command = D:\CMake\bin\cmake.exe --regenerate-during-build -SD:\CodeProjects\program\team\communication-class1-group5\201811050973\task2 -BD:\CodeProjects\program\team\communication-class1-group5\201811050973\task2\build
   description = Re-running CMake...
   generator = 1
 

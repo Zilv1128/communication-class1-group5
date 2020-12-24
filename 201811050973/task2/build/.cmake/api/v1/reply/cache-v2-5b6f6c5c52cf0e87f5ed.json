@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/CodeProjects/程序实习/个人/task2/build"
+			"value" : "d:/CodeProjects/program/team/communication-class1-group5/201811050973/task2/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -139,11 +139,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
-			"value" : "g++"
+			"type" : "STRING",
+			"value" : "D:/mingw/mingw64/bin/g++.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -283,11 +283,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
-			"value" : "gcc"
+			"type" : "STRING",
+			"value" : "D:/mingw/mingw64/bin/gcc.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/CodeProjects/程序实习/个人/task2"
+			"value" : "D:/CodeProjects/program/team/communication-class1-group5/201811050973/task2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1243,7 +1243,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/CodeProjects/程序实习/个人/task2/build"
+			"value" : "D:/CodeProjects/program/team/communication-class1-group5/201811050973/task2/build"
 		},
 		{
 			"name" : "main_SOURCE_DIR",
@@ -1255,7 +1255,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/CodeProjects/程序实习/个人/task2"
+			"value" : "D:/CodeProjects/program/team/communication-class1-group5/201811050973/task2"
 		}
 	],
 	"kind" : "cache",

@@ -93,7 +93,6 @@ int main()
             (*(*temp1).next).last = (*temp1).last;
             temp2 = temp1;
             temp1 = (*temp1).next;
-            delete temp2;
             total = total - 1;
         }
 
