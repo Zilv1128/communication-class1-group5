@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 2.8)
+project(main)  
+aux_source_directory(. SRC_LIST) #得到相同目录下的所有cpp文件并储存在 SRC_LIST 变量中
+add_executable(main ${SRC_LIST}) #将所有源文件共同编译形成一个叫 main.exe 的可执行文件
