@@ -139,11 +139,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
-			"value" : "D:/mingw/mingw64/bin/g++.exe"
+			"type" : "FILEPATH",
+			"value" : "g++"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -283,11 +283,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
-			"value" : "D:/mingw/mingw64/bin/gcc.exe"
+			"type" : "FILEPATH",
+			"value" : "gcc"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",

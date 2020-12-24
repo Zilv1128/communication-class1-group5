@@ -100,5 +100,7 @@ int main()
         {
             temp1 = (*temp1).next;
         }
+        
     }
+    cout << (*temp1).number << "号猴子是大王" << endl;
 }
